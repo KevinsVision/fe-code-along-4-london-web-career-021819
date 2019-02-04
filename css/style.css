@@ -128,7 +128,8 @@ img, video, audio {
 /*////// SECTIONS ///////*/
 
 section {
-  padding: 
+  padding: 20px;
+  margin-bottom: 20px;
 }
 
 
